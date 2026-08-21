@@ -9,3 +9,4 @@ use App\Http\Controllers\TbOwnerController;
 
 
 Route::resource('owners', TbOwnerController::class);
+// checkstorageupdate
