@@ -5,7 +5,7 @@
 <div class="container">
 
     <h3 class="mb-4">
-        เพิ่มเจ้าของกิจการ
+        เพิ่มเจ้าของกิจการ : รายละเอียด
     </h3>
 
     <form action="{{ route('owners.store') }}" method="POST">
